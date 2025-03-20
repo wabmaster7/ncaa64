@@ -30,7 +30,7 @@ first_round = [
     (Team("St. John's", seed=2, rpi=0.639, last_ten=0.9), Team("Omaha", seed=15, rpi=0.524, last_ten=0.8)),
 
     # EAST
-    (Team("Duke", seed=1, rpi=0.657, last_ten=1.0), Team("America/Mount St Mary's", seed=16, rpi=0.522, last_ten=0.5)),
+    (Team("Duke", seed=1, rpi=0.657, last_ten=1.0), Team("Mount St Mary's", seed=16, rpi=0.527, last_ten=0.8)),
     (Team("Mississippi St.", seed=8, rpi=0.590, last_ten=0.4), Team("Baylor", seed=9, rpi=0.573, last_ten=0.4)),
     (Team("Oregon", seed=5, rpi=0.619, last_ten=0.8), Team("Liberty", seed=12, rpi=0.578, last_ten=0.9)),
     (Team("Arizona", seed=4, rpi=0.598, last_ten=0.5), Team("Akron", seed=13, rpi=0.592, last_ten=0.9)),
@@ -44,7 +44,7 @@ first_round = [
     (Team("Gonzaga", seed=8, rpi=0.604, last_ten=0.9), Team("Georgia", seed=9, rpi=0.588, last_ten=0.5)),
     (Team("Clemson", seed=5, rpi=0.619, last_ten=0.9), Team("McNeese", seed=12, rpi=0.578, last_ten=1.0)),
     (Team("Purdue", seed=4, rpi=0.619, last_ten=0.4), Team("High Point", seed=13, rpi=0.576, last_ten=1.0)),
-    (Team("Illinois", seed=6, rpi=0.589, last_ten=0.6), Team("Texas/Xavier", seed=11, rpi=0.522, last_ten=0.5)),
+    (Team("Illinois", seed=6, rpi=0.589, last_ten=0.6), Team("Xavier", seed=11, rpi=0.568, last_ten=0.8)),
     (Team("Kentucky", seed=3, rpi=0.628, last_ten=0.6), Team("Troy", seed=14, rpi=0.543, last_ten=0.8)),
     (Team("UCLA", seed=7, rpi=0.585, last_ten=0.6), Team("Utah St.", seed=10, rpi=0.598, last_ten=0.6)),
     (Team("Tennessee", seed=2, rpi=0.655, last_ten=0.7), Team("Wofford", seed=15, rpi=0.525, last_ten=0.7)),
